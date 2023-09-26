@@ -15,7 +15,7 @@
         "mobile": "./src/assets/product-yx1-earphones/mobile/image-category-page-preview.jpg",
         "tablet": "./src/assets/product-yx1-earphones/tablet/image-category-page-preview.jpg",
         "desktop": "./src/assets/product-yx1-earphones/desktop/image-category-page-preview.jpg",
-        "thumbnail": "./src/assets/shared/desktop/image-category-thumbnail-earphones.png"
+        "thumbnail": "./assets/shared/desktop/image-category-thumbnail-earphones.png"
       },
       "new": true,
       "price": 599,
